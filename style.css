@@ -11,7 +11,7 @@ body {
 button {
     background: transparent;
     color: white;
-    margin-top: 30vh;
+    margin-top: 60px;
     padding: 20px;
     width: 250px;
     border: solid #6f42c1;
@@ -27,3 +27,4 @@ button:hover {
     border-radius: 10px;
 
 }
+
