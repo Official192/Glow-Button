@@ -3,6 +3,7 @@ body {
   padding: 0;
   background-color: black;
   display: flex;
+  min-height: 100vh;
   justify-content: center;   
   align-items: center;
 }
@@ -24,4 +25,5 @@ button:hover {
     background-color: #6f42c1;
     box-shadow: 0 0 40px #6f42c1;
     border-radius: 10px;
+
 }
